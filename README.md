@@ -8,5 +8,5 @@ My routing table stores node handles.
 My routing is similar to pastry. I route nodes to the nearest node.
 I also built classes to represent different types of messages.
 The Joining of nodes works.
-The indexing of messages and searching for words works seperately but does not work when the system is brought together. The Problem is my nodes seem to be only able to receive one message before closing.
+The indexing of messages and searching for words works seperately but does not work when the system is brought together. The Problem is my nodes seem to be only able to receive one message before closing. I could not figure out the reason for this behaviour.
 
