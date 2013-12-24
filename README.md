@@ -1,6 +1,6 @@
 P2PFinalAssign
 ==============
-This is the final program.You would ahve to include the gson jar and json jar to run the program.
+This is the final program.You would have to include the gson jar and json jar to run the program.
 I implemented the simplified version of the P2P.
 I implemented the pastry prefix routing.
 I built my datastructure to store words->url->rank.
